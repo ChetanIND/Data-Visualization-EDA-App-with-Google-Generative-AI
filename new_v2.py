@@ -4,7 +4,6 @@ import google.generativeai as genai
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 import plotly.express as px
-import os
 
 genai.configure(api_key="AIzaSyDTw3flfdqAbGDU3xFxkeInBQIObfvuG2s")
 
