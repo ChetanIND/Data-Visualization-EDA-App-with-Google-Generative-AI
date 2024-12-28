@@ -5,5 +5,4 @@ ydata-profiling
 streamlit-pandas-profiling
 google-generativeai
 numpy
-os
 matplotlib
