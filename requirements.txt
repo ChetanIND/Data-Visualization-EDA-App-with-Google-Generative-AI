@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+ydata-profiling
+streamlit-pandas-profiling
+google-generativeai
+numpy
+os
+matplotlib
