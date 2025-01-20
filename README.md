@@ -79,3 +79,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - `ydata-profiling` for EDA reports
 - Plotly for interactive visualizations
 - Google Generative AI for data preprocessing suggestions
+
+## Demo [text](https://data-visualization-eda-app-with-app-generative-ai-cih.streamlit.app/)
